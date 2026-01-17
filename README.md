@@ -9,7 +9,7 @@ I often see country-specific online resources in investigative journalism report
 - [Indonesian Government Entities and Officials](https://setkab.go.id/profil-kabinet/)
 - [Indonesian ID Card](https://greeninvestasia.com/understanding-the-ktp-indonesias-essential-identity-card-explained/) A simple explaination of Indonesian ID Card.  Useful for people searching
 - [Indonesian Postal Code](https://kodepos.nomor.net/_kodepos.php?_i=penjelasan-kodepos)
--  [Indonesian Plate Numbers (Wikipedia Guide)](https://id.wikipedia.org/wiki/Tanda_Nomor_Kendaraan_Bermotor_Indonesia)
+- [Indonesian Plate Numbers (Wikipedia Guide)](https://id.wikipedia.org/wiki/Tanda_Nomor_Kendaraan_Bermotor_Indonesia)
 
 ## National Data Portal
 - [Central Authority of Statistics](https://www.bps.go.id/id)
@@ -43,8 +43,8 @@ I often see country-specific online resources in investigative journalism report
 
 ## Vehicle 
 _There is no centralized vehicle records to my knowledge. Each regions have their own records._
-[Jakarta](https://samsat-pkb2.jakarta.go.id/)
-[West Java]( https://bapenda.jabarprov.go.id/infopkb/)
+- [Jakarta Vehicle Registry](https://samsat-pkb2.jakarta.go.id/)
+- [West Java Vehicle Registry]( https://bapenda.jabarprov.go.id/infopkb/)
   
 ## People Search
 - [Higher Education Data Center](https://pddikti.kemdiktisaintek.go.id/) Lets you search lecturers, students, and universities in Indonesia
